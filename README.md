@@ -1,0 +1,1 @@
+# Green User for security awareness training
