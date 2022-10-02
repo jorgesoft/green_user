@@ -1,1 +1,2 @@
+[![Security scan](https://github.com/jorgesoft/green_user/actions/workflows/security-scan.yml/badge.svg)](https://github.com/jorgesoft/green_user/actions/workflows/security-scan.yml) [![Django CI](https://github.com/jorgesoft/green_user/actions/workflows/django_build_test.yml/badge.svg)](https://github.com/jorgesoft/green_user/actions/workflows/django_build_test.yml)
 # Green User for security awareness training
